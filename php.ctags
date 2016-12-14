@@ -1,4 +1,5 @@
 -h .php
+--fields=+l
 --verbose=no
 --recurse=yes
 --tag-relative=yes
